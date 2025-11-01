@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+build/
+
+# logs
+npm-debug.log*
+
+
+# cache
+.cache/
+.vite/
+
+# Firebase local emulators
+firebase-debug.log
+.firebaserc
+
+# OS
+.DS_Store
+
+# dotenv
+.env
+.env.local
+
+# editor
+.idea/
+.vscode/
